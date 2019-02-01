@@ -1,0 +1,43 @@
+{
+  "food": [
+    {
+    "name": "Chimichanga",
+    "meat": ["Ground Beef"],
+    "veg": ["Lettuce", "Tomato", "Onion"],
+    "sides": ["Beans", "Rice", "Pico de Gallo", "Guacamole", "Sour"],
+    "sauce": "Chile Verde",
+    "price": 14.95
+      },
+      {
+      "name": "Chicken Enchiladas",
+      "veg": ["Tomatoes", "Lettuce", "Onion", "Olive"],
+      "sides": ["Beans", "Rice"],
+      "sauce": "Chipotle",
+      "price": 12.89
+      },
+      {
+    "name": "Empenadas (QTY. 3)",
+    "meat": ["Ground Beef"],
+    "veg": ["Lettuce", "Tomato", "Onion"],
+    "sides": ["Beans", "Rice", "Pico de Gallo", "Guacamole", "Sour"],
+    "sauce": "Chile Verde",
+    "price": 14.95
+      },
+      {
+    "name": "Chimichanga",
+    "meat": ["Shreaded Beef", "Ground Beef"],
+    "veg": ["Lettuce", "Tomato", "Onion"],
+    "sides": ["Beans", "Rice", "Pico de Gallo", "Guacamole", "Sour"],
+    "sauce": "Chile Verde",
+    "price": 14.95
+      },
+      {
+    "name": "Chimichanga",
+    "meat": ["Shreaded Beef", "Ground Beef"],
+    "veg": ["Lettuce", "Tomato", "Onion"],
+    "sides": ["Beans", "Rice", "Pico de Gallo", "Guacamole", "Sour"],
+    "sauce": "Chile Verde",
+    "price": 14.95
+      }
+    ]
+}
